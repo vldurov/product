@@ -163,9 +163,9 @@ button:hover {
     border-radius: .3rem;
     transition: max-width 1s;
 }
-
+/*
 .clearfix::after {
     display: block;
     content: ' ';
     clear: both;
-} 
+} */
